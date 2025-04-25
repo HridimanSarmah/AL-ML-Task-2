@@ -51,4 +51,4 @@ This project is part of the **AI & ML Internship Task 2**. The objective is to e
 
 ## Author
 Hridiman Sarmah  
-Jorhat Institute of Science & Technology
+
